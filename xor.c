@@ -11,3 +11,5 @@ void XOR(char * data, size_t data_len, char * key, size_t key_len) {
             j++;
     }
 }
+
+//when we use xor to encrypto our data,once is encrypto,twice is decrypto
